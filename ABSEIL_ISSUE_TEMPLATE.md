@@ -1,22 +1,3 @@
-Please submit a new Abseil Issue using the template below:
-
-## [Short title of proposed API change(s)]
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-## Background
-
-[Provide the background information that is required in order to evaluate the
-proposed API changes. No controversial claims should be made here. If there are
-design constraints that need to be considered, they should be presented here
-**along with justification for those constraints**. Linking to other docs is
-good, but please keep the **pertinent information as self contained** as
-possible in this section.]
-
-## Proposed API Change (s)
-
-[Please clearly describe the API change(s) being proposed. If multiple changes,
-please keep them clearly distinguished. When possible, **use example code
-snippets to illustrate before-after API usages**. List pros-n-cons. Highlight
-the main questions that you want to be answered. Given the Abseil project compatibility requirements, describe why the API change is safe.]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d30b56975f06d91143acaed9ffd5ba8372e357e4de7b926d9af78f609fa9be4f
+size 1095

@@ -1,18 +1,3 @@
-name: "extern/abseil-cpp"
-description:
-    "An open-source collection of C++ code designed to augment the C++ standard "
-    "library"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://abseil.io"
-  }
-  url {
-    type: GIT
-    value: "https://github.googlesource.com/abseil/abseil-cpp/+/refs/heads/lts_2020_02_25"
-  }
-  version: "fcb104594b0bb4b8ac306cb2f55ecdad40974683"
-  last_upgrade_date { year: 2020 month: 04 day: 27 }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:52c02b7de4ebcfab6cb7981ddd7166d384feb5ef4310680f09787a5dbf7349d3
+size 439
